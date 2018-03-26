@@ -749,7 +749,7 @@ img::-moz-selection {
     text-decoration: none;
     margin: 0 1px;
     margin-bottom: 6px;
-    text-shadow: 0 0 5px black;
+    text-shadow: 0 0 1px black;
 }
 
 .tags a:hover,
